@@ -1,0 +1,2 @@
+VisaAddress, Model, Alias
+"GPIB0::1::INSTR", SR830, lockin-1
